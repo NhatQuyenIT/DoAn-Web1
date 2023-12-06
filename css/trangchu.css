@@ -39,7 +39,7 @@
 	}
 	.dropdown:hover .dropbtn:after{
 		/* kí tự mũi tên xuống */
-		content:' \25BD'
+		content:' \25BD'		
 	}
 	.dropdown {
 	    position: relative;
