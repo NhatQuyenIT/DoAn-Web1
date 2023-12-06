@@ -8,7 +8,7 @@
 body,
 html {
     min-width: 1024px;
-
+    background-image: linear-gradient(to right bottom, #d4ccc3, #FFCC00) !important;
 }
 
 a {
