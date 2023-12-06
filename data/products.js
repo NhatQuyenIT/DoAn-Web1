@@ -47,17 +47,10 @@ var list_products = [{
 }, {
     "name": "OPPO Reno10 5G",
     "company": "Oppo",
-<<<<<<< HEAD
     "img": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:80/plain/https://cellphones.com.vn/media/catalog/product/r/e/reno10_5g_-_combo_product_-_blue.png",
     "price": "10.490.000",
     "star": 5,
     "rateCount": 188,
-=======
-    "img": "img/products/oppo-f9-red-600x600.jpg",
-    "price": "7.690.000",
-    "star": 0,
-    "rateCount": 0,
->>>>>>> 4c94f2ff5dc0698bc4eb8fe533c2c23d2266bad9
     "promo": {
         "name": "giamgia",
         "value": "500.000"
@@ -353,17 +346,10 @@ var list_products = [{
 }, {
     "name": "Xiaomi 13 8GB",
     "company": "Xiaomi",
-<<<<<<< HEAD
     "img": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:80/plain/https://cellphones.com.vn/media/catalog/product/x/i/xiaomi-13.png",
     "price": "18.090.000",
     "star": 4,
     "rateCount": 372,
-=======
-    "img": "img/products/xiaomi-redmi-note-5-pro-600x600.jpg",
-    "price": "5.690.000",
-    "star": 0,
-    "rateCount": 0,
->>>>>>> 4c94f2ff5dc0698bc4eb8fe533c2c23d2266bad9
     "promo": {
         "name": "moiramat",
         "value": ""
@@ -383,17 +369,10 @@ var list_products = [{
 }, {
     "name": "Xiaomi 12T 8GB",
     "company": "Xiaomi",
-<<<<<<< HEAD
     "img": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:80/plain/https://cellphones.com.vn/media/catalog/product/x/i/xiaomi-mi-12t.png",
     "price": "8.990.000",
     "star": 4,
     "rateCount": 347,
-=======
-    "img": "img/products/xiaomi-redmi-5-plus-600x600.jpg",
-    "price": "4.790.000",
-    "star": 0,
-    "rateCount": 0,
->>>>>>> 4c94f2ff5dc0698bc4eb8fe533c2c23d2266bad9
     "promo": {
         "name": "",
         "value": ""
@@ -528,17 +507,10 @@ var list_products = [{
 }, {
     "name": "Realme 10 8GB",
     "company": "Realme",
-<<<<<<< HEAD
     "img": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:80/plain/https://cellphones.com.vn/media/catalog/product/w/h/white-7e6a0f537b.png",
     "price": "4.990.000",
     "star": 5,
     "rateCount": 16,
-=======
-    "img": "https://cdn.tgdd.vn/Products/Images/42/192002/oppo-realme-2-pro-black-600x600.jpg",
-    "price": "6.990.000",
-    "star": 0,
-    "rateCount": 0,
->>>>>>> 4c94f2ff5dc0698bc4eb8fe533c2c23d2266bad9
     "promo": {
         "name": "moiramat",
         "value": ""
@@ -558,17 +530,10 @@ var list_products = [{
 }, {
     "name": "Realme 11 8GB 128GB",
     "company": "Realme",
-<<<<<<< HEAD
     "img": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:80/plain/https://cellphones.com.vn/media/catalog/product/r/e/realme-11-vang-1.jpg",
     "price": "6.490.000",
     "star": 5,
     "rateCount": 7,
-=======
-    "img": "https://cdn.tgdd.vn/Products/Images/42/193462/realme-2-4gb-64gb-docquyen-600x600.jpg",
-    "price": "4.490.000",
-    "star": 0,
-    "rateCount": 0,
->>>>>>> 4c94f2ff5dc0698bc4eb8fe533c2c23d2266bad9
     "promo": {
         "name": "moiramat",
         "value": ""
@@ -588,17 +553,10 @@ var list_products = [{
 }, {
     "name": "Realme C51 4GB 128GB",
     "company": "Realme",
-<<<<<<< HEAD
     "img": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:80/plain/https://cellphones.com.vn/media/catalog/product/r/e/realme-c51_2.png",
     "price": "3.590.000",
     "star": 4,
     "rateCount": 4,
-=======
-    "img": "https://cdn.tgdd.vn/Products/Images/42/193286/realme-c1-black-600x600.jpg",
-    "price": "2.490.000",
-    "star": 0,
-    "rateCount": 0,
->>>>>>> 4c94f2ff5dc0698bc4eb8fe533c2c23d2266bad9
     "promo": {
         "name": "moiramat",
         "value": ""
@@ -618,17 +576,10 @@ var list_products = [{
 }, {
     "name": "Realme 9 Pro Plus",
     "company": "Realme",
-<<<<<<< HEAD
     "img": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:80/plain/https://cellphones.com.vn/media/catalog/product/9/_/9_ro_plus_3.png",
     "price": "4.390.000",
     "star": 4,
     "rateCount": 11,
-=======
-    "img": "https://cdn.tgdd.vn/Products/Images/42/193464/realme-2-pro-4gb-64gb-blue-600x600.jpg",
-    "price": "5.590.000",
-    "star": 0,
-    "rateCount": 0,
->>>>>>> 4c94f2ff5dc0698bc4eb8fe533c2c23d2266bad9
     "promo": {
         "name": "moiramat",
         "value": ""
@@ -807,10 +758,10 @@ var list_products = [{
     },
     "masp": "Viv3"
 }, {
-    "name": "Mobell M789",
+    "name": " Mobell F209",
     "company": "Mobell",
-    "img": "https://cdn.tgdd.vn/Products/Images/42/92016/mobell-m789-8-300x300.jpg",
-    "price": "550.000",
+    "img": "https://cdn.tgdd.vn/Products/Images/42/299998/mobell-f209-gold-600x600.jpg",
+    "price": "620.000",
     "star": 0,
     "rateCount": 0,
     "promo": {
@@ -818,22 +769,22 @@ var list_products = [{
         "value": ""
     },
     "detail": {
-        "screen": "TFT, 2.4', 65.536 màu",
+        "screen": "TFT LCD, 2', QVGA ",
         "os": "Không",
         "camara": "Không",
         "camaraFront": "Không",
-        "cpu": "Không",
-        "ram": "Không",
-        "rom": "Không",
-        "microUSB": "Không",
-        "battery": "1200 mAh"
+        "cpu": "Unisoc T107",
+        "ram": "48 MB",
+        "rom": "128 MB",
+        "microUSB": "MicroSD, hỗ trợ tối đa 64 GB",
+        "battery": "1500 mAh"
     },
     "masp": "Mobe0"
 }, {
-    "name": "Mobell Rock 3",
+    "name": "Mobell Tab 8.1",
     "company": "Mobell",
-    "img": "https://cdn.tgdd.vn/Products/Images/42/112837/mobell-rock-3-2-300x300.jpg",
-    "price": "590.000",
+    "img": "https://cdn.tgdd.vn/Products/Images/522/311039/mobell-tab-8,1-thumb-xanh-600x600.jpg",
+    "price": "1.390.000",
     "star": 0,
     "rateCount": 0,
     "promo": {
@@ -841,15 +792,15 @@ var list_products = [{
         "value": ""
     },
     "detail": {
-        "screen": "TFT, 2.4', 65.536 màu",
-        "os": "Không",
-        "camara": "Không",
-        "camaraFront": "Không",
-        "cpu": "Không",
-        "ram": "Không",
-        "rom": "Không",
-        "microUSB": "Không",
-        "battery": "5000 mAh"
+        "screen": "IPS LCD, 8.1', 800 x 1280 Pixels",
+        "os": "Android 11",
+        "camara": "5 MP",
+        "camaraFront": "2 MP",
+        "cpu": "MediaTek MT8765 4 nhân",
+        "ram": "2 GB",
+        "rom": "16 GB",
+        "microUSB": "Micro SD, hỗ trợ tối đa 128 GB",
+        "battery": "4000 mAh"
     },
     "masp": "Mobe1"
 }, {

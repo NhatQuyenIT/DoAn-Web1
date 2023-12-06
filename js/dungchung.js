@@ -546,11 +546,7 @@ function addHeader() {
 	<div class="header group">
         <div class="logo">
             <a href="index.html">
-<<<<<<< HEAD
                 <img src="img/logo.png" alt="Trang chủ Smartphone Store" title="Trang chủ Smartphone Store">
-=======
-                <img src="img/logo.png" alt="Trang chủ Smartphone Store" title="Trang chủ Smartphone Store" style="width:50%;">
->>>>>>> 4c94f2ff5dc0698bc4eb8fe533c2c23d2266bad9
             </a>
         </div> <!-- End Logo -->
 
