@@ -114,26 +114,26 @@ var list_products = [{
     },
     "masp": "Sam1"
 }, {
-    "name": "iPhone X 256GB Silver",
+    "name": "iPhone 14 Pro Max 256GB",
     "company": "Apple",
-    "img": "img/products/iphone-x-256gb-silver-400x400.jpg",
-    "price": "31.990.000",
+    "img": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:80/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-14-pro_2__5.png",
+    "price": "29.990.000",
     "star": 4,
     "rateCount": 10,
     "promo": {
         "name": "giareonline",
-        "value": "27.990.000"
+        "value": "26.890.000"
     },
     "detail": {
-        "screen": "OLED, 5.8', Super Retina",
-        "os": "iOS 11",
-        "camara": "2 camera 12 MP",
-        "camaraFront": "7 MP",
-        "cpu": "Apple A11 Bionic 6 nhân",
-        "ram": "3 GB",
+        "screen": "OLED, 6.7', Super Retina XDR",
+        "os": "iOS 16",
+        "camara": "3 camera: 48MP, 12MP, 12MP",
+        "camaraFront": "12 MP",
+        "cpu": "Apple A16 Bionic 6-core",
+        "ram": "6 GB",
         "rom": "256 GB",
         "microUSB": "Không",
-        "battery": "2716 mAh, có sạc nhanh"
+        "battery": "4.323 mAh, có sạc nhanh"
     },
     "masp": "App0"
 }, {
@@ -183,10 +183,10 @@ var list_products = [{
     },
     "masp": "Sam2"
 }, {
-    "name": "iPad 2018 Wifi 32GB",
+    "name": "iPad Pro 12.9 inch 2022 M2 Wifi + 5G 256GB",
     "company": "Apple",
-    "img": "img/products/ipad-wifi-32gb-2018-thumb-600x600.jpg",
-    "price": "8.990.000",
+    "img": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:80/plain/https://cellphones.com.vn/media/catalog/product/i/p/ipad-pro-13-select-wifi-spacegray-202210-02_3_3.jpg",
+    "price": "35.990.000",
     "star": 0,
     "rateCount": 0,
     "promo": {
@@ -194,38 +194,38 @@ var list_products = [{
         "value": "0"
     },
     "detail": {
-        "screen": "LED-backlit LCD, 9.7p''",
-        "os": "\tiOS 11.3",
-        "camara": "8 MP",
-        "camaraFront": "1.2 MP",
-        "cpu": "Apple A10 Fusion, 2.34 GHz",
-        "ram": "2 GB",
-        "rom": "32 GB",
+        "screen": "Liquid Retina, 12.9'",
+        "os": "\tiPadOS 16",
+        "camara": "2 camera: 12MP, 10MP",
+        "camaraFront": "12MP",
+        "cpu": "Apple M2",
+        "ram": "8 GB",
+        "rom": "256 GB",
         "microUSB": "Không",
-        "battery": "Chưa có thông số cụ thể"
+        "battery": "40.88 Wh (~ 10.835 mAh)"
     },
     "masp": "App1"
 }, {
-    "name": "iPhone 7 Plus 32GB",
+    "name": "iPhone 12 Pro 256GB",
     "company": "Apple",
-    "img": "img/products/iphone-7-plus-32gb-hh-600x600.jpg",
-    "price": "17.000.000",
+    "img": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:80/plain/https://cellphones.com.vn/media/catalog/product/d/o/download_2_12_1.png",
+    "price": "28.990.000",
     "star": 0,
     "rateCount": 0,
     "promo": {
         "name": "giareonline",
-        "value": "16.990.000"
+        "value": "14.990.000"
     },
     "detail": {
-        "screen": "LED-backlit IPS LCD, 5.5', Retina HD",
-        "os": "iOS 11",
-        "camara": "2 camera 12 MP",
-        "camaraFront": "7 MP",
-        "cpu": "Apple A10 Fusion 4 nhân 64-bit",
-        "ram": "3 GB",
-        "rom": "32 GB",
+        "screen": "OLED, 6.1', Super Retina XDR",
+        "os": "iOS 15",
+        "camara": "3 camera: 12MP(wide), 12MP(telephoto), 12MP(ultra wide)",
+        "camaraFront": "12 MP",
+        "cpu": "Apple A14 Bionic (5 nm)",
+        "ram": "4 GB",
+        "rom": "256 GB",
         "microUSB": "Không",
-        "battery": "2900 mAh"
+        "battery": "2815 mAh20, có sạc nhanh"
     },
     "masp": "App2"
 }, {
@@ -1034,33 +1034,33 @@ var list_products = [{
     },
     "masp": "Mot0"
 }, {
-    "name": "iPhone Xr 128GB",
+    "name": "iPhone 15 Pro Max 256GB",
     "company": "Apple",
-    "img": "https://cdn.tgdd.vn/Products/Images/42/191483/iphone-xr-128gb-red-600x600.jpg",
-    "price": "24.990.000",
+    "img": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:80/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-15-pro-max_3.png",
+    "price": "34.990.000",
     "star": 0,
     "rateCount": 0,
     "promo": {
         "name": "giareonline",
-        "value": "22.990.000"
+        "value": "32.990.000"
     },
     "detail": {
-        "screen": "IPS LCD, 6.1', IPS LCD, 16 triệu màu",
-        "os": "iOS 12",
-        "camara": "12 MP",
-        "camaraFront": "7 MP",
-        "cpu": "Apple A12 Bionic 6 nhân",
-        "ram": "3 GB",
-        "rom": "128 GB",
+        "screen": "OLED, 6.7', Super Retina XDR",
+        "os": "iOS 17",
+        "camara": "3 camera: 48MP, 12MP, 12MP",
+        "camaraFront": "12MP",
+        "cpu": "Apple A17 Pro",
+        "ram": "8 GB",
+        "rom": "256 GB",
         "microUSB": "Không",
-        "battery": "2942 mAh, có sạc nhanh"
+        "battery": "4422 mAh, có sạc nhanh"
     },
     "masp": "App3"
 }, {
-    "name": "iPhone 8 Plus 64GB",
+    "name": "iPhone 15 Plus 512GB",
     "company": "Apple",
-    "img": "https://cdn.tgdd.vn/Products/Images/42/114110/iphone-8-plus-hh-600x600.jpg",
-    "price": "20.990.000",
+    "img": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:80/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-15-plus-256gb_4.png",
+    "price": "32.990.000",
     "star": 5,
     "rateCount": 230,
     "promo": {
@@ -1068,22 +1068,22 @@ var list_products = [{
         "value": "0"
     },
     "detail": {
-        "screen": "LED-backlit IPS LCD, 5.5', Retina HD",
-        "os": "iOS 11",
-        "camara": "2 camera 12 MP",
-        "camaraFront": "7 MP",
-        "cpu": "Apple A11 Bionic 6 nhân",
-        "ram": "3 GB",
-        "rom": "64 GB",
+        "screen": "OLED, 6.7', Super Retina XDR",
+        "os": "iOS 17",
+        "camara": "2 camera:48MP, 12MP",
+        "camaraFront": "12 MP",
+        "cpu": "Apple A16",
+        "ram": "6 GB",
+        "rom": "512 GB",
         "microUSB": "Không",
-        "battery": "2691 mAh, có sạc nhanh"
+        "battery": "4383 mAh, có sạc nhanh"
     },
     "masp": "App4"
 }, {
-    "name": "iPhone 8 Plus 256GB",
+    "name": "iPhone 14 256GB",
     "company": "Apple",
-    "img": "https://cdn.tgdd.vn/Products/Images/42/114114/iphone-8-plus-256gb-red-600x600.jpg",
-    "price": "25.790.000",
+    "img": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:80/plain/https://cellphones.com.vn/media/catalog/product/p/h/photo_2022-09-28_21-58-56_2.jpg",
+    "price": "21.790.000",
     "star": 5,
     "rateCount": 16,
     "promo": {
@@ -1091,22 +1091,22 @@ var list_products = [{
         "value": "500.000"
     },
     "detail": {
-        "screen": "LED-backlit IPS LCD, 4.7', Retina HD",
-        "os": "iOS 11",
-        "camara": "12 MP",
-        "camaraFront": "7 MP",
-        "cpu": "Apple A11 Bionic 6 nhân",
-        "ram": "2 GB",
+        "screen": "OLED, 6.1'",
+        "os": "iOS 16",
+        "camara": "2 camera: 12 MP, 12MP",
+        "camaraFront": "12 MP",
+        "cpu": "Apple A15 Bionic 6 nhân",
+        "ram": "6 GB",
         "rom": "256 GB",
         "microUSB": "Không",
-        "battery": "1821 mAh, có sạc nhanh"
+        "battery": "3279 mAh, có sạc nhanh"
     },
     "masp": "App5"
 }, {
-    "name": "iPhone Xr 64GB",
+    "name": "iPhone 13 mini 256GB",
     "company": "Apple",
-    "img": "https://cdn.tgdd.vn/Products/Images/42/190325/iphone-xr-black-400x460.png",
-    "price": "22.990.000",
+    "img": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:80/plain/https://cellphones.com.vn/media/catalog/product/1/1/11_3_12_2_1_3.jpg",
+    "price": "24.990.000",
     "star": 4,
     "rateCount": 5,
     "promo": {
@@ -1114,14 +1114,14 @@ var list_products = [{
         "value": "19.990.000"
     },
     "detail": {
-        "screen": "IPS LCD, 6.1', IPS LCD, 16 triệu màu",
-        "os": "iOS 12",
-        "camara": "12 MP",
-        "camaraFront": "7 MP",
-        "cpu": "Apple A12 Bionic 6 nhân",
-        "ram": "3 GB",
-        "rom": "64 GB",
-        "battery": "2942 mAh, có sạc nhanh"
+        "screen": "OLED, 5.4'",
+        "os": "iOS 15",
+        "camara": "2 camera: 12 MP, 12MP",
+        "camaraFront": "12 MP",
+        "cpu": "Apple A15 Bionic 6 nhân",
+        "ram": "4 GB",
+        "rom": "256 GB",
+        "battery": "2406 mAh, có sạc nhanh"
     },
     "masp": "App6"
 }, {
