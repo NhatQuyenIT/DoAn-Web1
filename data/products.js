@@ -1,6 +1,6 @@
 var list_products = [{
     "name": "SamSung Galaxy J4+",
-    "company": "Samsung",
+    "company": "Samsung",   
     "img": "img/products/samsung-galaxy-j4-plus-pink-400x400.jpg",
     "price": "3.490.000",
     "star": 3,
@@ -22,10 +22,10 @@ var list_products = [{
     },
     "masp": "Sam0"
 }, {
-    "name": "Xiaomi Mi 8 Lite",
+    "name": "Xiaomi Redmi Note 12 Pro 5G",
     "company": "Xiaomi",
-    "img": "img/products/xiaomi-mi-8-lite-black-1-600x600.jpg",
-    "price": "6.690.000",
+    "img": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:80/plain/https://cellphones.com.vn/media/catalog/product/x/i/xiaomi-redmi-note-12-pro-5g.png",
+    "price": "8.490.000",
     "star": 0,
     "rateCount": 0,
     "promo": {
@@ -33,22 +33,22 @@ var list_products = [{
         "value": "0"
     },
     "detail": {
-        "screen": "IPS LCD, 6.26', Full HD+",
-        "os": "Android 8.1 (Oreo)",
-        "camara": "12 MP và 5 MP (2 camera)",
-        "camaraFront": "24 MP",
-        "cpu": "Qualcomm Snapdragon 660 8 nhân",
-        "ram": "4 GB",
-        "rom": "64 GB",
+        "screen": "AMOLED, 6.67', Full HD+",
+        "os": "Android 12",
+        "camara": "Chính 50 MP & Phụ 8 MP, 2 MP",
+        "camaraFront": "16 MP",
+        "cpu": "MediaTek Dimensity 1080 8 nhân",
+        "ram": "8 GB",
+        "rom": "256 GB",
         "microUSB": "MicroSD, hỗ trợ tối đa 512 GB",
-        "battery": "3300 mAh, có sạc nhanh"
+        "battery": "5000 mAh, có sạc nhanh"
     },
     "masp": "Xia0"
 }, {
-    "name": "Oppo F9",
+    "name": "OPPO Reno10 5G",
     "company": "Oppo",
-    "img": "img/products/oppo-f9-red-600x600.jpg",
-    "price": "7.690.000",
+    "img": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:80/plain/https://cellphones.com.vn/media/catalog/product/r/e/reno10_5g_-_combo_product_-_blue.png",
+    "price": "10.490.000",
     "star": 5,
     "rateCount": 188,
     "promo": {
@@ -56,15 +56,15 @@ var list_products = [{
         "value": "500.000"
     },
     "detail": {
-        "screen": "LTPS LCD, 6.3', Full HD+",
-        "os": "ColorOS 5.2 (Android 8.1)",
-        "camara": "16 MP và 2 MP (2 camera)",
-        "camaraFront": "25 MP",
-        "cpu": "MediaTek Helio P60 8 nhân 64-bit",
-        "ram": "4 GB",
-        "rom": "64 GB",
-        "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
-        "battery": "3500 mAh, có sạc nhanh"
+        "screen": "AMOLED, 6.7', Full HD+",
+        "os": "Android 13",
+        "camara": "Chính 64 MP & Phụ 32 MP, 8 MP",
+        "camaraFront": "32 MP",
+        "cpu": "MediaTek Dimensity 7050 5G 8 nhân",
+        "ram": "8 GB",
+        "rom": "256 GB",
+        "microUSB": "MicroSD, hỗ trợ tối đa 2 TB",
+        "battery": "5000 mAh, có sạc nhanh"
     },
     "masp": "Opp0"
 }, {
@@ -137,10 +137,10 @@ var list_products = [{
     },
     "masp": "App0"
 }, {
-    "name": "Oppo A3s 32GB",
+    "name": "OPPO Find N3 Flip",
     "company": "Oppo",
-    "img": "img/products/oppo-a3s-32gb-600x600.jpg",
-    "price": "4.690.000",
+    "img": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:80/plain/https://cellphones.com.vn/media/catalog/product/f/i/find-n3-flip-vang_1.png",
+    "price": "22.990.000",
     "star": 0,
     "rateCount": 0,
     "promo": {
@@ -148,15 +148,15 @@ var list_products = [{
         "value": "0"
     },
     "detail": {
-        "screen": "IPS LCD, 6.2', HD+",
-        "os": "Android 8.1 (Oreo)",
-        "camara": "13 MP và 2 MP (2 camera)",
-        "camaraFront": "8 MP",
-        "cpu": "Qualcomm Snapdragon 450 8 nhân 64-bit",
-        "ram": "3 GB",
-        "rom": "32 GB",
+        "screen": "AMOLED, Chính 6.8' & Phụ 3.26', FHD+",
+        "os": "Android 13",
+        "camara": "Chính 50 MP & Phụ 48 MP, 32 MP",
+        "camaraFront": "32 MP",
+        "cpu": "MediaTek Dimensity 9200 5G 8 nhân",
+        "ram": "12 GB",
+        "rom": "256 GB",
         "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
-        "battery": "4230 mAh"
+        "battery": "4300 mAh"
     },
     "masp": "Opp1"
 }, {
@@ -229,10 +229,10 @@ var list_products = [{
     },
     "masp": "App2"
 }, {
-    "name": "Xiaomi Mi 8",
+    "name": "Xiaomi 13T",
     "company": "Xiaomi",
-    "img": "img/products/xiaomi-mi-8-1-600x600.jpg",
-    "price": "12.990.000",
+    "img": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:80/plain/https://cellphones.com.vn/media/catalog/product/x/i/xiaomi-13t_1__1_2.png",
+    "price": "11.490.000",
     "star": 0,
     "rateCount": 0,
     "promo": {
@@ -240,15 +240,15 @@ var list_products = [{
         "value": "0"
     },
     "detail": {
-        "screen": "IPS LCD, 6.26', Full HD+",
-        "os": "Android 8.1 (Oreo)",
-        "camara": "12 MP và 5 MP (2 camera)",
-        "camaraFront": "24 MP",
-        "cpu": "Qualcomm Snapdragon 660 8 nhân",
-        "ram": "4 GB",
-        "rom": "64 GB",
+        "screen": "AMOLED, 6.67', 1.5K",
+        "os": "Android 13",
+        "camara": "Chính 50 MP & Phụ 50 MP, 12 MP",
+        "camaraFront": "20 MP",
+        "cpu": "MediaTek Dimensity 8200-Ultra",
+        "ram": "12 GB",
+        "rom": "256 GB",
         "microUSB": "MicroSD, hỗ trợ tối đa 512 GB",
-        "battery": "3300 mAh, có sạc nhanh"
+        "battery": "5000 mAh, có sạc nhanh"
     },
     "masp": "Xia1"
 }, {
@@ -344,10 +344,10 @@ var list_products = [{
     },
     "masp": "Mob3"
 }, {
-    "name": "Xiaomi Redmi Note 5",
+    "name": "Xiaomi 13 8GB",
     "company": "Xiaomi",
-    "img": "img/products/xiaomi-redmi-note-5-pro-600x600.jpg",
-    "price": "5.690.000",
+    "img": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:80/plain/https://cellphones.com.vn/media/catalog/product/x/i/xiaomi-13.png",
+    "price": "18.090.000",
     "star": 4,
     "rateCount": 372,
     "promo": {
@@ -355,22 +355,22 @@ var list_products = [{
         "value": ""
     },
     "detail": {
-        "screen": "IPS LCD, 5.99', Full HD+",
-        "os": "Android 8.1 (Oreo)",
-        "camara": "12 MP và 5 MP (2 camera)",
-        "camaraFront": "13 MP",
-        "cpu": "Qualcomm Snapdragon 636 8 nhân",
-        "ram": "4 GB",
-        "rom": "64 GB",
-        "microUSB": "MicroSD, hỗ trợ tối đa 128 GB",
-        "battery": "4000 mAh, có sạc nhanh"
+        "screen": "AMOLED, 6.36', Full HD+",
+        "os": "Android 13",
+        "camara": "Chính 50 MP & Phụ 10 MP, 12 MP",
+        "camaraFront": "32 MP",
+        "cpu": "Qualcomm Snapdragon 8 gen 2",
+        "ram": "8 GB",
+        "rom": "256 GB",
+        "microUSB": "MicroSD, hỗ trợ tối đa 1 TB",
+        "battery": "4500 mAh, có sạc nhanh"
     },
     "masp": "Xia2"
 }, {
-    "name": "Xiaomi Redmi 5 Plus 4GB",
+    "name": "Xiaomi 12T 8GB",
     "company": "Xiaomi",
-    "img": "img/products/xiaomi-redmi-5-plus-600x600.jpg",
-    "price": "4.790.000",
+    "img": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:80/plain/https://cellphones.com.vn/media/catalog/product/x/i/xiaomi-mi-12t.png",
+    "price": "8.990.000",
     "star": 4,
     "rateCount": 347,
     "promo": {
@@ -378,15 +378,15 @@ var list_products = [{
         "value": ""
     },
     "detail": {
-        "screen": "IPS LCD, 5.99', Full HD+",
-        "os": "Android 7.1 (Nougat)",
-        "camara": "12 MP",
-        "camaraFront": "5 MP",
-        "cpu": "Snapdragon 625 8 nhân 64-bit",
-        "ram": "4 GB",
-        "rom": "64 GB",
-        "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
-        "battery": "4000 mAh"
+        "screen": "AMOLED, 6.67', 1.5K",
+        "os": "Android 12",
+        "camara": "Chính 108 MP & Phụ 8 MP, 2 MP ",
+        "camaraFront": "20 MP",
+        "cpu": "MediaTek Dimensity 8100 Ultra 8 nhân",
+        "ram": "8 GB",
+        "rom": "128 GB",
+        "microUSB": "MicroSD, hỗ trợ tối đa 1 TB",
+        "battery": "5000 mAh"
     },
     "masp": "Xia3"
 }, {
@@ -505,10 +505,10 @@ var list_products = [{
     },
     "masp": "Sam3"
 }, {
-    "name": "Realme 2 Pro 8GB/128GB",
+    "name": "Realme 10 8GB",
     "company": "Realme",
-    "img": "https://cdn.tgdd.vn/Products/Images/42/192002/oppo-realme-2-pro-black-600x600.jpg",
-    "price": "6.990.000",
+    "img": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:80/plain/https://cellphones.com.vn/media/catalog/product/w/h/white-7e6a0f537b.png",
+    "price": "4.990.000",
     "star": 5,
     "rateCount": 16,
     "promo": {
@@ -516,22 +516,22 @@ var list_products = [{
         "value": ""
     },
     "detail": {
-        "screen": "IPS LCD, 6.3', Full HD+",
-        "os": "ColorOS 5.2 (Android 8.1)",
-        "camara": "16 MP và 2 MP (2 camera)",
+        "screen": "Super AMOLED, 6.4', Full HD+",
+        "os": "Android 12",
+        "camara": "Chính 50 MP & Phụ 2 MP",
         "camaraFront": "16 MP",
-        "cpu": "Qualcomm Snapdragon 660 8 nhân",
+        "cpu": "MediaTek Helio G99 8 nhân",
         "ram": "8 GB",
-        "rom": "128 GB",
-        "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
-        "battery": "3500 mAh"
+        "rom": "256 GB",
+        "microUSB": "MicroSD, hỗ trợ tối đa 1 TB",
+        "battery": "5000 mAh"
     },
     "masp": "Rea0"
 }, {
-    "name": "Realme 2 4GB/64GB",
+    "name": "Realme 11 8GB 128GB",
     "company": "Realme",
-    "img": "https://cdn.tgdd.vn/Products/Images/42/193462/realme-2-4gb-64gb-docquyen-600x600.jpg",
-    "price": "4.490.000",
+    "img": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:80/plain/https://cellphones.com.vn/media/catalog/product/r/e/realme-11-vang-1.jpg",
+    "price": "6.490.000",
     "star": 5,
     "rateCount": 7,
     "promo": {
@@ -539,22 +539,22 @@ var list_products = [{
         "value": ""
     },
     "detail": {
-        "screen": "IPS LCD, 6.2', HD+",
-        "os": "Android 8.1 (Oreo)",
-        "camara": "13 MP và 2 MP (2 camera)",
-        "camaraFront": "8 MP",
-        "cpu": "Qualcomm Snapdragon 450 8 nhân 64-bit",
-        "ram": "4 GB",
-        "rom": "64 GB",
-        "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
-        "battery": "4230 mAh"
+        "screen": "Super AMOLED, 6.4',Full HD+",
+        "os": "Android 13",
+        "camara": "Chính 108 MP & Phụ 2 MP",
+        "camaraFront": "16 MP",
+        "cpu": "MediaTek Helio G99 8 nhân",
+        "ram": "8 GB",
+        "rom": "128 GB",
+        "microUSB": "MicroSD, hỗ trợ tối đa 1 TB",
+        "battery": "5000 mAh"
     },
     "masp": "Rea1"
 }, {
-    "name": "Realme C1",
+    "name": "Realme C51 4GB 128GB",
     "company": "Realme",
-    "img": "https://cdn.tgdd.vn/Products/Images/42/193286/realme-c1-black-600x600.jpg",
-    "price": "2.490.000",
+    "img": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:80/plain/https://cellphones.com.vn/media/catalog/product/r/e/realme-c51_2.png",
+    "price": "3.590.000",
     "star": 4,
     "rateCount": 4,
     "promo": {
@@ -562,22 +562,22 @@ var list_products = [{
         "value": ""
     },
     "detail": {
-        "screen": "IPS LCD, 6.2', HD+",
-        "os": "Android 8.1 (Oreo)",
-        "camara": "13 MP và 2 MP (2 camera)",
+        "screen": "IPS LCD, 6.74', HD+",
+        "os": "Android 13",
+        "camara": "Chính 50 MP & Phụ 0.3 MP",
         "camaraFront": "5 MP",
-        "cpu": "Qualcomm Snapdragon 450 8 nhân 64-bit",
-        "ram": "2 GB",
-        "rom": "16 GB",
-        "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
-        "battery": "4230 mAh"
+        "cpu": "Unisoc Tiger T612",
+        "ram": "4 GB",
+        "rom": "128 GB",
+        "microUSB": "MicroSD, hỗ trợ tối đa 2 TB",
+        "battery": "5000 mAh"
     },
     "masp": "Rea2"
 }, {
-    "name": "Realme 2 Pro 4GB/64GB",
+    "name": "Realme 9 Pro Plus",
     "company": "Realme",
-    "img": "https://cdn.tgdd.vn/Products/Images/42/193464/realme-2-pro-4gb-64gb-blue-600x600.jpg",
-    "price": "5.590.000",
+    "img": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:80/plain/https://cellphones.com.vn/media/catalog/product/9/_/9_ro_plus_3.png",
+    "price": "4.390.000",
     "star": 4,
     "rateCount": 11,
     "promo": {
@@ -585,15 +585,15 @@ var list_products = [{
         "value": ""
     },
     "detail": {
-        "screen": "IPS LCD, 6.3', Full HD+",
-        "os": "ColorOS 5.2 (Android 8.1)",
-        "camara": "16 MP và 2 MP (2 camera)",
+        "screen": "Super AMOLED, 6.4', Full HD+",
+        "os": "Android 12",
+        "camara": "Chính 50 MP & Phụ 8 MP, 2 MP",
         "camaraFront": "16 MP",
-        "cpu": "Qualcomm Snapdragon 660 8 nhân",
-        "ram": "4 GB",
-        "rom": "64 GB",
-        "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
-        "battery": "3500 mAh"
+        "cpu": "MediaTek Dimensity 920 5G 8 nhân",
+        "ram": "8 GB",
+        "rom": "128 GB",
+        "microUSB": "MicroSD, hỗ trợ tối đa 1 TB",
+        "battery": "4500 mAh"
     },
     "masp": "Rea3"
 }, {
