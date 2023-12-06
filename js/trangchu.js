@@ -36,7 +36,7 @@ window.onload = function () {
 	for (var c of company) addCompany("img/company/" + c, c.slice(0, c.length - 4));
 
 	// Thêm sản phẩm vào trang
-	var sanPhamPhanTich
+	var sanPhamPhanTich;
 	var sanPhamPhanTrang;
 
 	var filters = getFilterFromURL();

@@ -1,8 +1,8 @@
 var list_products = [{
-    "name": "SamSung Galaxy J4+",
+    "name": "Samsung Galaxy Z Fold5 5G 256GB ",
     "company": "Samsung",
-    "img": "img/products/samsung-galaxy-j4-plus-pink-400x400.jpg",
-    "price": "3.490.000",
+    "img": "https://cdn.tgdd.vn/Products/Images/42/301608/samsung-galaxy-z-fold5-%20kem-600x600.jpg",
+    "price": "40.990.000",
     "star": 3,
     "rateCount": 26,
     "promo": {
@@ -10,15 +10,15 @@ var list_products = [{
         "value": "0"
     },
     "detail": {
-        "screen": "IPS LCD, 6.0', HD+",
-        "os": "Android 8.1 (Oreo)",
-        "camara": "13 MP",
-        "camaraFront": "5 MP",
-        "cpu": "Qualcomm Snapdragon 425 4 nhân 64-bit",
-        "ram": "2 GB",
+        "screen": "Dynamic AMOLED 2XChính 7.6",
+        "os": "Android 13",
+        "camera": "Chính 50 MP & Phụ 12 MP, 10 MP",
+        "cameraFront": "10 MP & 4 MP",
+        "cpu": "Snapdragon 8 Gen 2 for Galaxy",
+        "ram": "12 GB",
         "rom": "16 GB",
-        "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
-        "battery": "3300 mAh"
+        "microUSB": "Type-C",
+        "battery": "4400 mAh"
     },
     "masp": "Sam0"
 }, {
@@ -35,8 +35,8 @@ var list_products = [{
     "detail": {
         "screen": "IPS LCD, 6.26', Full HD+",
         "os": "Android 8.1 (Oreo)",
-        "camara": "12 MP và 5 MP (2 camera)",
-        "camaraFront": "24 MP",
+        "camera": "12 MP và 5 MP (2 camera)",
+        "cameraFront": "24 MP",
         "cpu": "Qualcomm Snapdragon 660 8 nhân",
         "ram": "4 GB",
         "rom": "64 GB",
@@ -58,8 +58,8 @@ var list_products = [{
     "detail": {
         "screen": "LTPS LCD, 6.3', Full HD+",
         "os": "ColorOS 5.2 (Android 8.1)",
-        "camara": "16 MP và 2 MP (2 camera)",
-        "camaraFront": "25 MP",
+        "camera": "16 MP và 2 MP (2 camera)",
+        "cameraFront": "25 MP",
         "cpu": "MediaTek Helio P60 8 nhân 64-bit",
         "ram": "4 GB",
         "rom": "64 GB",
@@ -68,33 +68,33 @@ var list_products = [{
     },
     "masp": "Opp0"
 }, {
-    "name": "Nokia 5.1 Plus",
+    "name": "Nokia C21 Plus 2GB 32GB",
     "company": "Nokia",
-    "img": "img/products/nokia-51-plus-black-18thangbh-400x400.jpg",
-    "price": "4.790.000",
+    "img": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:80/plain/https://cellphones.com.vn/media/catalog/product/n/o/nokia-c21-plus-2gb-32gb.png",
+    "price": "1.690.000",
     "star": 5,
     "rateCount": 7,
     "promo": {
         "name": "giamgia",
-        "value": "250.000"
+        "value": "1.540.000"
     },
     "detail": {
-        "screen": "IPS LCD, 5.8', HD+",
-        "os": "Android One",
-        "camara": "13 MP và 5 MP (2 camera)",
-        "camaraFront": "8 MP",
-        "cpu": "MediaTek Helio P60 8 nhân 64-bit",
-        "ram": "3 GB",
+        "screen": "IPS LCD",
+        "os": "Android 11 (Go edition)",
+        "camera": "13 MP + 2 MP",
+        "cameraFront": "5 MP",
+        "cpu": "Unisoc SC9863A",
+        "ram": "2 GB",
         "rom": "32 GB",
-        "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
-        "battery": "3060 mAh, có sạc nhanh"
+        "microUSB": "Micro-USB",
+        "battery": "4000 mAh"
     },
     "masp": "Nok0"
 }, {
-    "name": "Samsung Galaxy A8+ (2018)",
+    "name": "Samsung Galaxy Z Flip5 5G 256GB",
     "company": "Samsung",
-    "img": "img/products/samsung-galaxy-a8-plus-2018-gold-600x600.jpg",
-    "price": "11.990.000",
+    "img": "img/products/samsung-galaxy-z-flip5-xanh-mint-thumb-600x600.jpg",
+    "price": "21.990.000",
     "star": 0,
     "rateCount": 0,
     "promo": {
@@ -102,15 +102,15 @@ var list_products = [{
         "value": "1.500.000"
     },
     "detail": {
-        "screen": "Super AMOLED, 6', Full HD+",
-        "os": "Android 7.1 (Nougat)",
-        "camara": "16 MP",
-        "camaraFront": "16 MP và 8 MP (2 camera)",
-        "cpu": "Exynos 7885 8 nhân 64-bit",
-        "ram": "6 GB",
-        "rom": "64 GB",
-        "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
-        "battery": "3500 mAh, có sạc nhanh"
+        "screen": "Dynamic AMOLED 2X,Phụ:Super AMOLED",
+        "os": "Android 13",
+        "camera": "2 camera 12 MP",
+        "cameraFront": "10 MP",
+        "cpu": "Snapdragon 8 Gen 2 for Galaxy",
+        "ram": "8 GB",
+        "rom": "256 GB",
+        "microUSB": "Type-c",
+        "battery": "3700 mAh25 W"
     },
     "masp": "Sam1"
 }, {
@@ -127,8 +127,8 @@ var list_products = [{
     "detail": {
         "screen": "OLED, 5.8', Super Retina",
         "os": "iOS 11",
-        "camara": "2 camera 12 MP",
-        "camaraFront": "7 MP",
+        "camera": "2 camera 12 MP",
+        "cameraFront": "7 MP",
         "cpu": "Apple A11 Bionic 6 nhân",
         "ram": "3 GB",
         "rom": "256 GB",
@@ -150,8 +150,8 @@ var list_products = [{
     "detail": {
         "screen": "IPS LCD, 6.2', HD+",
         "os": "Android 8.1 (Oreo)",
-        "camara": "13 MP và 2 MP (2 camera)",
-        "camaraFront": "8 MP",
+        "camera": "13 MP và 2 MP (2 camera)",
+        "cameraFront": "8 MP",
         "cpu": "Qualcomm Snapdragon 450 8 nhân 64-bit",
         "ram": "3 GB",
         "rom": "32 GB",
@@ -160,10 +160,10 @@ var list_products = [{
     },
     "masp": "Opp1"
 }, {
-    "name": "Samsung Galaxy J8",
+    "name": "Samsung Galaxy Z Fold5 5G 1TB ",
     "company": "Samsung",
-    "img": "img/products/samsung-galaxy-j8-600x600-600x600.jpg",
-    "price": "6.290.000",
+    "img": "https://cdn.tgdd.vn/Products/Images/42/310805/samsung-galaxy-z-fold5-%20den-600x600.jpg",
+    "price": "47.990.000",
     "star": 0,
     "rateCount": 0,
     "promo": {
@@ -171,15 +171,15 @@ var list_products = [{
         "value": "500.000"
     },
     "detail": {
-        "screen": "Super AMOLED, 6.0', HD+",
-        "os": "Android 8.0 (Oreo)",
-        "camara": "16 MP và 5 MP (2 camera)",
-        "camaraFront": "16 MP",
-        "cpu": "Qualcomm Snapdragon 450 8 nhân 64-bit",
-        "ram": "3 GB",
-        "rom": "32 GB",
-        "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
-        "battery": "3500 mAh"
+        "screen": "Dynamic AMOLED 2X",
+        "os": "Android 13",
+        "camera": "Chính 50 MP & Phụ 12 MP, 10 MP",
+        "cameraFront": "10 MP & 4 MP",
+        "cpu": "Snapdragon 8 Gen 2 for Galaxy",
+        "ram": "12 GB",
+        "rom": "1 TB",
+        "microUSB": "Type-C",
+        "battery": "4400 mAh25 W"
     },
     "masp": "Sam2"
 }, {
@@ -196,8 +196,8 @@ var list_products = [{
     "detail": {
         "screen": "LED-backlit LCD, 9.7p''",
         "os": "\tiOS 11.3",
-        "camara": "8 MP",
-        "camaraFront": "1.2 MP",
+        "camera": "8 MP",
+        "cameraFront": "1.2 MP",
         "cpu": "Apple A10 Fusion, 2.34 GHz",
         "ram": "2 GB",
         "rom": "32 GB",
@@ -219,8 +219,8 @@ var list_products = [{
     "detail": {
         "screen": "LED-backlit IPS LCD, 5.5', Retina HD",
         "os": "iOS 11",
-        "camara": "2 camera 12 MP",
-        "camaraFront": "7 MP",
+        "camera": "2 camera 12 MP",
+        "cameraFront": "7 MP",
         "cpu": "Apple A10 Fusion 4 nhân 64-bit",
         "ram": "3 GB",
         "rom": "32 GB",
@@ -242,8 +242,8 @@ var list_products = [{
     "detail": {
         "screen": "IPS LCD, 6.26', Full HD+",
         "os": "Android 8.1 (Oreo)",
-        "camara": "12 MP và 5 MP (2 camera)",
-        "camaraFront": "24 MP",
+        "camera": "12 MP và 5 MP (2 camera)",
+        "cameraFront": "24 MP",
         "cpu": "Qualcomm Snapdragon 660 8 nhân",
         "ram": "4 GB",
         "rom": "64 GB",
@@ -265,8 +265,8 @@ var list_products = [{
     "detail": {
         "screen": "IPS LCD, 5.86', HD+",
         "os": "Android 8.1 (Oreo)",
-        "camara": "16 MP và 5 MP (2 camera)",
-        "camaraFront": "16 MP",
+        "camera": "16 MP và 5 MP (2 camera)",
+        "cameraFront": "16 MP",
         "cpu": "MediaTek MT6762 8 nhân 64-bit (Helio P22)",
         "ram": "4 GB",
         "rom": "32 GB",
@@ -288,8 +288,8 @@ var list_products = [{
     "detail": {
         "screen": "IPS LCD, 5.5', Full HD",
         "os": "Android 7.0 (Nougat)",
-        "camara": "13 MP",
-        "camaraFront": "13 MP và 8 MP (2 camera)",
+        "camera": "13 MP",
+        "cameraFront": "13 MP và 8 MP (2 camera)",
         "cpu": "MT6737T, 4 nhân",
         "ram": "3 GB",
         "rom": "32 GB",
@@ -311,8 +311,8 @@ var list_products = [{
     "detail": {
         "screen": "IPS LCD, 6.0', HD+",
         "os": "Android 7.0 (Nougat)",
-        "camara": "13 MP",
-        "camaraFront": "13 MP",
+        "camera": "13 MP",
+        "cameraFront": "13 MP",
         "cpu": "MediaTek MT6739 4 nhân 64-bit",
         "ram": "2 GB",
         "rom": "16 GB",
@@ -334,8 +334,8 @@ var list_products = [{
     "detail": {
         "screen": "LCD, 1.8', QQVGA",
         "os": "Không",
-        "camara": "0.08 MP",
-        "camaraFront": "Không",
+        "camera": "0.08 MP",
+        "cameraFront": "Không",
         "cpu": "Không",
         "ram": "Không",
         "rom": "Không",
@@ -357,8 +357,8 @@ var list_products = [{
     "detail": {
         "screen": "IPS LCD, 5.99', Full HD+",
         "os": "Android 8.1 (Oreo)",
-        "camara": "12 MP và 5 MP (2 camera)",
-        "camaraFront": "13 MP",
+        "camera": "12 MP và 5 MP (2 camera)",
+        "cameraFront": "13 MP",
         "cpu": "Qualcomm Snapdragon 636 8 nhân",
         "ram": "4 GB",
         "rom": "64 GB",
@@ -380,8 +380,8 @@ var list_products = [{
     "detail": {
         "screen": "IPS LCD, 5.99', Full HD+",
         "os": "Android 7.1 (Nougat)",
-        "camara": "12 MP",
-        "camaraFront": "5 MP",
+        "camera": "12 MP",
+        "cameraFront": "5 MP",
         "cpu": "Snapdragon 625 8 nhân 64-bit",
         "ram": "4 GB",
         "rom": "64 GB",
@@ -390,10 +390,10 @@ var list_products = [{
     },
     "masp": "Xia3"
 }, {
-    "name": "Huawei Mate 20 Pro",
+    "name": "Huawei Y5P ",
     "company": "Huawei",
-    "img": "img/products/huawei-mate-20-pro-green-600x600.jpg",
-    "price": "21.990.000",
+    "img": "https://cdn.tgdd.vn/Products/Images/42/221924/huawei-y5p-600x600.jpg",
+    "price": "19.990.000",
     "star": 5,
     "rateCount": 4,
     "promo": {
@@ -401,21 +401,21 @@ var list_products = [{
         "value": "0"
     },
     "detail": {
-        "screen": "OLED, 6.39', Quad HD+ (2K+)",
-        "os": "Android 9.0 (Pie)",
-        "camara": "40 MP, 20 MP và 8 MP (3 camera)",
-        "camaraFront": "24 MP",
-        "cpu": "Hisilicon Kirin 980 8 nhân 64-bit",
-        "ram": "6 GB",
-        "rom": "128 GB",
-        "microUSB": "NM card, hỗ trợ tối đa 512 GB",
-        "battery": "4200 mAh, có sạc nhanh"
+        "screen": "PS LCD5.4 Full HD+",
+        "os": "EMUI 10 (Android 10 không có Google)",
+        "camera": "Chính 8 MP & Phụ 2 MP",
+        "cameraFront": "24 MP",
+        "cpu": "MediaTek MT6762 (Helio P22)",
+        "ram": "2 GB",
+        "rom": "32 GB",
+        "microUSB": "Đang cập nhật",
+        "battery": "3020 mAh"
     },
     "masp": "Hua0"
 }, {
-    "name": "Huawei Nova 3",
+    "name": "Huawei Nova 3i",
     "company": "Huawei",
-    "img": "img/products/huawei-nova-3-2-600x600.jpg",
+    "img": "https://cdn.tgdd.vn/Products/Images/42/179673/huawei-nova-3i-600-600-600x600.jpg",
     "price": "9.990.000",
     "star": 4,
     "rateCount": 22,
@@ -424,22 +424,22 @@ var list_products = [{
         "value": "0"
     },
     "detail": {
-        "screen": "LTPS LCD, 6.3', Full HD+",
-        "os": "Android 8.1 (Oreo)",
-        "camara": "24 MP và 16 MP (2 camera)",
-        "camaraFront": "24 MP và 2 MP (2 camera)",
-        "cpu": "Hisilicon Kirin 970 8 nhân",
-        "ram": "6 GB",
+        "screen": "LTPS LCD6.3 Full HD+",
+        "os": "Android 8.1",
+        "camera": "Chính 16 MP & Phụ 2 MP",
+        "cameraFront": "Chính 24 MP & Phụ 2 MP",
+        "cpu": "Kirin 710",
+        "ram": "4 GB",
         "rom": "128 GB",
-        "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
-        "battery": "3750 mAh, có sạc nhanh"
+        "microUSB": "MicroSD",
+        "battery": "3340 mAh"
     },
     "masp": "Hua1"
 }, {
-    "name": "Huawei Y5 2017",
+    "name": "Huawei Mate 30",
     "company": "Huawei",
-    "img": "img/products/huawei-y5-2017-300x300.jpg",
-    "price": "1.990.000",
+    "img": "https://cdn.tgdd.vn/Products/Images/42/199045/huawei-mate-30-1-600x600.jpg",
+    "price": "14.990.000",
     "star": 5,
     "rateCount": 54,
     "promo": {
@@ -447,15 +447,15 @@ var list_products = [{
         "value": ""
     },
     "detail": {
-        "screen": "IPS LCD, 5', HD",
-        "os": "Android 6.0 (Marshmallow)",
-        "camara": "8 MP",
-        "camaraFront": "5 MP",
-        "cpu": "MT6737T, 4 nhân",
-        "ram": "2 GB",
-        "rom": "16 GB",
-        "microUSB": "MicroSD, hỗ trợ tối đa 128 GB",
-        "battery": "3000 mAh"
+        "screen": "OLED6.62 Full HD+",
+        "os": "Android 10",
+        "camera": "Chính 40 MP & Phụ 16 MP, 8 MP",
+        "cameraFront": "Chính 24 MP & Phụ TOF 3D",
+        "cpu": "Kirin 990",
+        "ram": "6 GB",
+        "rom": "128 GB",
+        "microUSB": "Type-C",
+        "battery": "4200 mAh"
     },
     "masp": "Hua2"
 }, {
@@ -472,8 +472,8 @@ var list_products = [{
     "detail": {
         "screen": "4K, Chống nước, Chống trầy",
         "os": "iOS + Android song song",
-        "camara": "Bộ tứ camara tàng hình",
-        "camaraFront": "Chuẩn thế giới 50MP",
+        "camera": "Bộ tứ camera tàng hình",
+        "cameraFront": "Chuẩn thế giới 50MP",
         "cpu": "16 nhân 128 bit",
         "ram": "Không giới hạn",
         "rom": "Dùng thoải mái",
@@ -482,9 +482,9 @@ var list_products = [{
     },
     "masp": "Nok1"
 }, {
-    "name": "Samsung Galaxy A7 (2018)",
+    "name": "Samsung Galaxy S23 5G 128GB",
     "company": "Samsung",
-    "img": "https://cdn.tgdd.vn/Products/Images/42/194327/samsung-galaxy-a7-2018-128gb-black-400x400.jpg",
+    "img": "https://cdn.tgdd.vn/Products/Images/42/264060/samsung-galaxy-s23-600x600.jpg",
     "price": "8.990.000",
     "star": 4,
     "rateCount": 22,
@@ -495,8 +495,8 @@ var list_products = [{
     "detail": {
         "screen": "Super AMOLED, 6.0', Full HD+",
         "os": "Android 8.0 (Oreo)",
-        "camara": "24 MP, 8 MP và 5 MP (3 camera)",
-        "camaraFront": "24 MP",
+        "camera": "24 MP, 8 MP và 5 MP (3 camera)",
+        "cameraFront": "24 MP",
         "cpu": "Exynos 7885 8 nhân 64-bit",
         "ram": "4 GB",
         "rom": "64 GB",
@@ -508,7 +508,7 @@ var list_products = [{
     "name": "Realme 2 Pro 8GB/128GB",
     "company": "Realme",
     "img": "https://cdn.tgdd.vn/Products/Images/42/192002/oppo-realme-2-pro-black-600x600.jpg",
-    "price": "6.990.000",
+    "price": "16.990.000",
     "star": 5,
     "rateCount": 16,
     "promo": {
@@ -516,15 +516,15 @@ var list_products = [{
         "value": ""
     },
     "detail": {
-        "screen": "IPS LCD, 6.3', Full HD+",
-        "os": "ColorOS 5.2 (Android 8.1)",
-        "camara": "16 MP và 2 MP (2 camera)",
-        "camaraFront": "16 MP",
-        "cpu": "Qualcomm Snapdragon 660 8 nhân",
+        "screen": "Dynamic AMOLED 2X",
+        "os": "Android 13",
+        "camera": "Chính 50 MP & Phụ 12 MP, 10 MP",
+        "cameraFront": "12 MP",
+        "cpu": "Snapdragon 8 Gen 2 for Galaxy",
         "ram": "8 GB",
         "rom": "128 GB",
-        "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
-        "battery": "3500 mAh"
+        "microUSB": "Type-C",
+        "battery": "3900 mAh25 W"
     },
     "masp": "Rea0"
 }, {
@@ -541,8 +541,8 @@ var list_products = [{
     "detail": {
         "screen": "IPS LCD, 6.2', HD+",
         "os": "Android 8.1 (Oreo)",
-        "camara": "13 MP và 2 MP (2 camera)",
-        "camaraFront": "8 MP",
+        "camera": "13 MP và 2 MP (2 camera)",
+        "cameraFront": "8 MP",
         "cpu": "Qualcomm Snapdragon 450 8 nhân 64-bit",
         "ram": "4 GB",
         "rom": "64 GB",
@@ -564,8 +564,8 @@ var list_products = [{
     "detail": {
         "screen": "IPS LCD, 6.2', HD+",
         "os": "Android 8.1 (Oreo)",
-        "camara": "13 MP và 2 MP (2 camera)",
-        "camaraFront": "5 MP",
+        "camera": "13 MP và 2 MP (2 camera)",
+        "cameraFront": "5 MP",
         "cpu": "Qualcomm Snapdragon 450 8 nhân 64-bit",
         "ram": "2 GB",
         "rom": "16 GB",
@@ -587,8 +587,8 @@ var list_products = [{
     "detail": {
         "screen": "IPS LCD, 6.3', Full HD+",
         "os": "ColorOS 5.2 (Android 8.1)",
-        "camara": "16 MP và 2 MP (2 camera)",
-        "camaraFront": "16 MP",
+        "camera": "16 MP và 2 MP (2 camera)",
+        "cameraFront": "16 MP",
         "cpu": "Qualcomm Snapdragon 660 8 nhân",
         "ram": "4 GB",
         "rom": "64 GB",
@@ -610,8 +610,8 @@ var list_products = [{
     "detail": {
         "screen": "TFT, 2.4', QVGA",
         "os": "Không",
-        "camara": "0.3 MP",
-        "camaraFront": "Không",
+        "camera": "0.3 MP",
+        "cameraFront": "Không",
         "cpu": "Không",
         "ram": "Không",
         "rom": "Không",
@@ -633,8 +633,8 @@ var list_products = [{
     "detail": {
         "screen": "IPS LCD, 5', HD",
         "os": "Android 7.0 (Nougat)",
-        "camara": "13 MP",
-        "camaraFront": "5 MP",
+        "camera": "13 MP",
+        "cameraFront": "5 MP",
         "cpu": "Mediatek MT6750 8 nhân",
         "ram": "3 GB",
         "rom": "16 GB",
@@ -656,8 +656,8 @@ var list_products = [{
     "detail": {
         "screen": "TFT, 1.77', 65.536 màu",
         "os": "Không",
-        "camara": "Không",
-        "camaraFront": "Không",
+        "camera": "Không",
+        "cameraFront": "Không",
         "cpu": "Không",
         "ram": "Không",
         "rom": "Không",
@@ -666,10 +666,10 @@ var list_products = [{
     },
     "masp": "Phi2"
 }, {
-    "name": "Vivo V11",
+    "name": "vivo V27e ",
     "company": "Vivo",
-    "img": "https://cdn.tgdd.vn/Products/Images/42/188828/vivo-v11-600x600.jpg",
-    "price": "10.990.000",
+    "img": "https://cdn.tgdd.vn/Products/Images/42/297026/vivo-v27e-tim-thumb-600x600.jpg",
+    "price": "7.990.000",
     "star": 0,
     "rateCount": 0,
     "promo": {
@@ -679,8 +679,8 @@ var list_products = [{
     "detail": {
         "screen": "Super AMOLED, 6.41', Full HD+",
         "os": "Android 8.1 (Oreo)",
-        "camara": "12 MP và 5 MP (2 camera)",
-        "camaraFront": "25 MP",
+        "camera": "12 MP và 5 MP (2 camera)",
+        "cameraFront": "25 MP",
         "cpu": "Qualcomm Snapdragon 660 8 nhân",
         "ram": "6 GB",
         "rom": "128 GB",
@@ -700,45 +700,45 @@ var list_products = [{
         "value": "800.000"
     },
     "detail": {
-        "screen": "IPS LCD, 6.3', Full HD+",
-        "os": "Android 8.1 (Oreo)",
-        "camara": "16 MP và 5 MP (2 camera)",
-        "camaraFront": "24 MP",
-        "cpu": "Snapdragon 626 8 nhân 64-bit",
-        "ram": "4 GB",
-        "rom": "64 GB",
-        "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
-        "battery": "3260 mAh"
+        "screen": "AMOLED6.62 Full HD+",
+        "os": "Android 13",
+        "camera": "Chính 64 MP & Phụ 2 MP, 2 MP",
+        "cameraFront": "32 MP",
+        "cpu": "MediaTek Helio G99",
+        "ram": "8 GB",
+        "rom": "256 GB",
+        "microUSB": "Type-C",
+        "battery": "4600 mAh66 W"
     },
     "masp": "Viv1"
 }, {
-    "name": "Vivo Y85",
+    "name": "vivo V29e 5G 12GB",
     "company": "Vivo",
-    "img": "https://cdn.tgdd.vn/Products/Images/42/156205/vivo-y85-red-docquyen-600x600.jpg",
-    "price": "4.990.000",
+    "img": "https://cdn.tgdd.vn/Products/Images/42/309864/vivo-v29e-black-avt-600x600.jpg",
+    "price": "9.990.000",
     "star": 4,
     "rateCount": 60,
     "promo": {
         "name": "giamgia",
-        "value": "500.000"
+        "value": "9.490.000"
     },
     "detail": {
-        "screen": "IPS LCD, 6.22', HD+",
-        "os": "Android 8.1 (Oreo)",
-        "camara": "13 MP và 2 MP (2 camera)",
-        "camaraFront": "8 MP",
-        "cpu": "MediaTek MT6762 8 nhân 64-bit (Helio P22)",
-        "ram": "4 GB",
-        "rom": "32 GB",
-        "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
-        "battery": "3260 mAh"
+        "screen": "AMOLED6.67 Full HD+",
+        "os": "Android 13",
+        "camera": "Chính 64 MP & Phụ 8 MP",
+        "cameraFront": "50 MP",
+        "cpu": "Snapdragon 695 5G",
+        "ram": "12 GB",
+        "rom": "256 GB",
+        "microUSB": "Type-C",
+        "battery": "4800 mAh44 W"
     },
     "masp": "Viv2"
 }, {
-    "name": "Vivo Y71",
+    "name": "vivo V25 Pro 5G ",
     "company": "Vivo",
-    "img": "https://cdn.tgdd.vn/Products/Images/42/158585/vivo-y71-docquyen-600x600.jpg",
-    "price": "3.290.000",
+    "img": "https://cdn.tgdd.vn/Products/Images/42/282389/vivo-v25-pro-5g-xanh-thumb-1-600x600.jpg",
+    "price": "8.190.000",
     "star": 4,
     "rateCount": 60,
     "promo": {
@@ -746,15 +746,15 @@ var list_products = [{
         "value": "0"
     },
     "detail": {
-        "screen": "IPS LCD, 6.0', HD+",
-        "os": "Android 8.1 (Oreo)",
-        "camara": "13 MP",
-        "camaraFront": "5 MP",
-        "cpu": "Qualcomm Snapdragon 425 4 nhân 64-bit",
-        "ram": "3 GB",
-        "rom": "16 GB",
-        "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
-        "battery": "3360 mAh"
+        "screen": "AMOLED6.56 Full HD+",
+        "os": "Android 12",
+        "camera": "Chính 64 MP & Phụ 8 MP, 2 MP",
+        "cameraFront": "32 MP",
+        "cpu": "MediaTek Dimensity 1300",
+        "ram": "8 GB",
+        "rom": "128 GB",
+        "microUSB": "Type-C",
+        "battery": "4830 mAh66 W"
     },
     "masp": "Viv3"
 }, {
@@ -771,8 +771,8 @@ var list_products = [{
     "detail": {
         "screen": "TFT, 2.4', 65.536 màu",
         "os": "Không",
-        "camara": "Không",
-        "camaraFront": "Không",
+        "camera": "Không",
+        "cameraFront": "Không",
         "cpu": "Không",
         "ram": "Không",
         "rom": "Không",
@@ -794,8 +794,8 @@ var list_products = [{
     "detail": {
         "screen": "TFT, 2.4', 65.536 màu",
         "os": "Không",
-        "camara": "Không",
-        "camaraFront": "Không",
+        "camera": "Không",
+        "cameraFront": "Không",
         "cpu": "Không",
         "ram": "Không",
         "rom": "Không",
@@ -817,8 +817,8 @@ var list_products = [{
     "detail": {
         "screen": "LCD, 5.5', FWVGA",
         "os": "Android 8.1 (Oreo)",
-        "camara": "8 MP và 2 MP (2 camera)",
-        "camaraFront": "5 MP",
+        "camera": "8 MP và 2 MP (2 camera)",
+        "cameraFront": "5 MP",
         "cpu": "MT6580 4 nhân 32-bit",
         "ram": "1 GB",
         "rom": "16 GB",
@@ -840,8 +840,8 @@ var list_products = [{
     "detail": {
         "screen": "IPS LCD, 5.45', qHD",
         "os": "Android 8.1 (Oreo)",
-        "camara": "5 MP và 0.3 MP (2 camera)",
-        "camaraFront": "5 MP",
+        "camera": "5 MP và 0.3 MP (2 camera)",
+        "cameraFront": "5 MP",
         "cpu": "MT6580 4 nhân 32-bit",
         "ram": "1 GB",
         "rom": "8 GB",
@@ -863,8 +863,8 @@ var list_products = [{
     "detail": {
         "screen": "TFT, 5', FWVGA",
         "os": "Android Go Edition",
-        "camara": "5 MP",
-        "camaraFront": "2 MP",
+        "camera": "5 MP",
+        "cameraFront": "2 MP",
         "cpu": "MediaTek MT6580 4 nhân 32-bit",
         "ram": "1 GB",
         "rom": "8 GB",
@@ -886,8 +886,8 @@ var list_products = [{
     "detail": {
         "screen": "TFT, 1.77', 65.536 màu",
         "os": "Không",
-        "camara": "Không",
-        "camaraFront": "Không",
+        "camera": "Không",
+        "cameraFront": "Không",
         "cpu": "Không",
         "ram": "Không",
         "rom": "Không",
@@ -909,8 +909,8 @@ var list_products = [{
     "detail": {
         "screen": "TFT, 1.77', WVGA",
         "os": "Không",
-        "camara": "Không",
-        "camaraFront": "Không",
+        "camera": "Không",
+        "cameraFront": "Không",
         "cpu": "Không",
         "ram": "Không",
         "rom": "Không",
@@ -932,8 +932,8 @@ var list_products = [{
     "detail": {
         "screen": "IPS LCD, 5.45', HD+",
         "os": "Android 8.1 (Oreo)",
-        "camara": "8 MP và 0.3 MP (2 camera)",
-        "camaraFront": "5 MP",
+        "camera": "8 MP và 0.3 MP (2 camera)",
+        "cameraFront": "5 MP",
         "cpu": "Spreadtrum SC9850K 4 nhân",
         "ram": "2 GB",
         "rom": "16 GB",
@@ -955,8 +955,8 @@ var list_products = [{
     "detail": {
         "screen": "IPS LCD, 5.45', HD+",
         "os": "Android Go Edition",
-        "camara": "5 MP và 0.3 MP (2 camera)",
-        "camaraFront": "2 MP",
+        "camera": "5 MP và 0.3 MP (2 camera)",
+        "cameraFront": "2 MP",
         "cpu": "Spreadtrum SC9850K 4 nhân",
         "ram": "1 GB",
         "rom": "16 GB",
@@ -978,8 +978,8 @@ var list_products = [{
     "detail": {
         "screen": "IPS LCD, 5', WVGA",
         "os": "Android Go Edition",
-        "camara": "5 MP và 0.3 MP (2 camera)",
-        "camaraFront": "2 MP",
+        "camera": "5 MP và 0.3 MP (2 camera)",
+        "cameraFront": "2 MP",
         "cpu": "MT6580 4 nhân 32-bit",
         "ram": "1 GB",
         "rom": "8 GB",
@@ -1001,8 +1001,8 @@ var list_products = [{
     "detail": {
         "screen": "Super LCD, 6', Full HD+",
         "os": "Android 8.1 (Oreo)",
-        "camara": "16 MP và 5 MP (2 camera)",
-        "camaraFront": "13 MP",
+        "camera": "16 MP và 5 MP (2 camera)",
+        "cameraFront": "13 MP",
         "cpu": "Qualcomm Snapdragon 636 8 nhân",
         "ram": "4 GB",
         "rom": "64 GB",
@@ -1024,8 +1024,8 @@ var list_products = [{
     "detail": {
         "screen": "TFT, 5', FWVGA",
         "os": "Android 7.1 (Nougat)",
-        "camara": "5 MP",
-        "camaraFront": "2 MP",
+        "camera": "5 MP",
+        "cameraFront": "2 MP",
         "cpu": "MT6737 4 nhân",
         "ram": "1 GB",
         "rom": "16 GB",
@@ -1047,8 +1047,8 @@ var list_products = [{
     "detail": {
         "screen": "IPS LCD, 6.1', IPS LCD, 16 triệu màu",
         "os": "iOS 12",
-        "camara": "12 MP",
-        "camaraFront": "7 MP",
+        "camera": "12 MP",
+        "cameraFront": "7 MP",
         "cpu": "Apple A12 Bionic 6 nhân",
         "ram": "3 GB",
         "rom": "128 GB",
@@ -1070,8 +1070,8 @@ var list_products = [{
     "detail": {
         "screen": "LED-backlit IPS LCD, 5.5', Retina HD",
         "os": "iOS 11",
-        "camara": "2 camera 12 MP",
-        "camaraFront": "7 MP",
+        "camera": "2 camera 12 MP",
+        "cameraFront": "7 MP",
         "cpu": "Apple A11 Bionic 6 nhân",
         "ram": "3 GB",
         "rom": "64 GB",
@@ -1093,8 +1093,8 @@ var list_products = [{
     "detail": {
         "screen": "LED-backlit IPS LCD, 4.7', Retina HD",
         "os": "iOS 11",
-        "camara": "12 MP",
-        "camaraFront": "7 MP",
+        "camera": "12 MP",
+        "cameraFront": "7 MP",
         "cpu": "Apple A11 Bionic 6 nhân",
         "ram": "2 GB",
         "rom": "256 GB",
@@ -1116,8 +1116,8 @@ var list_products = [{
     "detail": {
         "screen": "IPS LCD, 6.1', IPS LCD, 16 triệu màu",
         "os": "iOS 12",
-        "camara": "12 MP",
-        "camaraFront": "7 MP",
+        "camera": "12 MP",
+        "cameraFront": "7 MP",
         "cpu": "Apple A12 Bionic 6 nhân",
         "ram": "3 GB",
         "rom": "64 GB",
@@ -1125,26 +1125,26 @@ var list_products = [{
     },
     "masp": "App6"
 }, {
-    "name": "Huawei Nova 2i",
+    "name": "Huawei P40 ",
     "company": "Huawei",
-    "img": "https://cdn.tgdd.vn/Products/Images/42/157031/samsung-galaxy-a6-2018-2-600x600.jpg",
-    "price": "4.490.000",
+    "img": "https://cdn.tgdd.vn/Products/Images/42/211157/huawei-p40-600x600-2-200x200.jpg",
+    "price": "15.990.000",
     "star": 4,
     "rateCount": 804,
     "promo": {
         "name": "giareonline",
-        "value": "3.990.000"
+        "value": "15.490.000"
     },
     "detail": {
-        "screen": "IPS LCD, 5.9', Full HD+",
-        "os": "Android 7.0 (Nougat)",
-        "camara": "16 MP và 2 MP (2 camera)",
-        "camaraFront": "13 MP và 2 MP (2 camera)",
-        "cpu": "HiSilicon Kirin 659 8 nhân",
-        "ram": "4 GB",
-        "rom": "64 GB",
-        "microUSB": "MicroSD, hỗ trợ tối đa 128 GB",
-        "battery": "3340 mAh"
+        "screen": "OLED6.1 Full HD+",
+        "os": "EMUI 10 (Android 10 không có Google)",
+        "camera": "Chính 50 MP & Phụ 16 MP, 8 MP",
+        "cameraFront": "Chính 32 MP & Phụ IR TOF 3D",
+        "cpu": "Kirin 990",
+        "ram": "8 GB",
+        "rom": "128 GB",
+        "microUSB": "Type-C",
+        "battery": "3800 mAh"
     },
     "masp": "Hua3"
 }]

@@ -1,6 +1,6 @@
 var adminInfo = [{
     "username": "admin",
-    "pass": "adadad"
+    "pass": "admin@12345"
 }];
 
 function getListAdmin() {
@@ -545,7 +545,9 @@ function addHeader() {
 	<div class="header group">
         <div class="logo">
             <a href="index.html">
-                <img src="img/logo.jpg" alt="Trang chủ Smartphone Store" title="Trang chủ Smartphone Store">
+                <img src="img/logo.png" alt="Trang chủ Smartphone Store" title="Trang chủ Smartphone Store">
+                <span style="text-transform:uppercase;color:red;font-weight:bold;font-family: Arial, Helvetica, sans-serif;">Trang chủ</span>
+                
             </a>
         </div> <!-- End Logo -->
 
@@ -606,8 +608,8 @@ function addFooter() {
 
     <!-- ============== Footer ============= -->
     <div class="copy-right">
-        <p><a href="index.html">LDD Phone Store</a> - All rights reserved © 2021 - Designed by
-            <span style="color: #eee; font-weight: bold">group 15th</span></p>
+        <p><a href="index.html">Hoàn Hảo Store</a> - All rights reserved © 2023 - Designed by
+            <span style="color: #eee; font-weight: bold">group A07</span></p>
     </div>`);
 }
 

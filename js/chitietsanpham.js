@@ -82,8 +82,8 @@ function phanTich_URL_chiTietSanPham() {
     var info = document.getElementsByClassName('info')[0];
     var s = addThongSo('Màn hình', sanPhamHienTai.detail.screen);
     s += addThongSo('Hệ điều hành', sanPhamHienTai.detail.os);
-    s += addThongSo('Camara sau', sanPhamHienTai.detail.camara);
-    s += addThongSo('Camara trước', sanPhamHienTai.detail.camaraFront);
+    s += addThongSo('Camera sau', sanPhamHienTai.detail.camara);
+    s += addThongSo('Camera trước', sanPhamHienTai.detail.camaraFront);
     s += addThongSo('CPU', sanPhamHienTai.detail.cpu);
     s += addThongSo('RAM', sanPhamHienTai.detail.ram);
     s += addThongSo('Bộ nhớ trong', sanPhamHienTai.detail.rom);
