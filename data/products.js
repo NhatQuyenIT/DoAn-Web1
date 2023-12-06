@@ -3,8 +3,8 @@ var list_products = [{
     "company": "Samsung",
     "img": "img/products/samsung-galaxy-j4-plus-pink-400x400.jpg",
     "price": "3.490.000",
-    "star": 3,
-    "rateCount": 26,
+    "star": 0,
+    "rateCount": 0,
     "promo": {
         "name": "tragop",
         "value": "0"
@@ -49,8 +49,8 @@ var list_products = [{
     "company": "Oppo",
     "img": "img/products/oppo-f9-red-600x600.jpg",
     "price": "7.690.000",
-    "star": 5,
-    "rateCount": 188,
+    "star": 0,
+    "rateCount": 0,
     "promo": {
         "name": "giamgia",
         "value": "500.000"
@@ -72,8 +72,8 @@ var list_products = [{
     "company": "Nokia",
     "img": "img/products/nokia-51-plus-black-18thangbh-400x400.jpg",
     "price": "4.790.000",
-    "star": 5,
-    "rateCount": 7,
+    "star": 0,
+    "rateCount": 0,
     "promo": {
         "name": "giamgia",
         "value": "250.000"
@@ -116,10 +116,17 @@ var list_products = [{
 }, {
     "name": "iPhone 14 Pro Max 256GB",
     "company": "Apple",
+<<<<<<< HEAD
     "img": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:80/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-14-pro_2__5.png",
     "price": "29.990.000",
     "star": 4,
     "rateCount": 10,
+=======
+    "img": "img/products/iphone-x-256gb-silver-400x400.jpg",
+    "price": "31.990.000",
+    "star": 0,
+    "rateCount": 0,
+>>>>>>> 4c94f2ff5dc0698bc4eb8fe533c2c23d2266bad9
     "promo": {
         "name": "giareonline",
         "value": "26.890.000"
@@ -256,8 +263,8 @@ var list_products = [{
     "company": "Mobiistar",
     "img": "img/products/mobiistar-x-3-600x600.jpg",
     "price": "3.490.000",
-    "star": 4,
-    "rateCount": 16,
+    "star": 0,
+    "rateCount": 0,
     "promo": {
         "name": "tragop",
         "value": "0"
@@ -279,8 +286,8 @@ var list_products = [{
     "company": "Mobiistar",
     "img": "img/products/mobiistar-zumbo-s2-dual-300x300.jpg",
     "price": "2.850.000",
-    "star": 4,
-    "rateCount": 104,
+    "star": 0,
+    "rateCount": 0,
     "promo": {
         "name": "moiramat",
         "value": ""
@@ -302,8 +309,8 @@ var list_products = [{
     "company": "Mobiistar",
     "img": "img/products/mobiistar-e-selfie-300-1copy-600x600.jpg",
     "price": "2.490.000",
-    "star": 4,
-    "rateCount": 80,
+    "star": 0,
+    "rateCount": 0,
     "promo": {
         "name": "",
         "value": ""
@@ -325,8 +332,8 @@ var list_products = [{
     "company": "Mobiistar",
     "img": "img/products/mobiistar-b310-orange-600x600.jpg",
     "price": "260.000",
-    "star": 5,
-    "rateCount": 87,
+    "star": 0,
+    "rateCount": 0,
     "promo": {
         "name": "moiramat",
         "value": ""
@@ -348,8 +355,8 @@ var list_products = [{
     "company": "Xiaomi",
     "img": "img/products/xiaomi-redmi-note-5-pro-600x600.jpg",
     "price": "5.690.000",
-    "star": 4,
-    "rateCount": 372,
+    "star": 0,
+    "rateCount": 0,
     "promo": {
         "name": "moiramat",
         "value": ""
@@ -371,8 +378,8 @@ var list_products = [{
     "company": "Xiaomi",
     "img": "img/products/xiaomi-redmi-5-plus-600x600.jpg",
     "price": "4.790.000",
-    "star": 4,
-    "rateCount": 347,
+    "star": 0,
+    "rateCount": 0,
     "promo": {
         "name": "",
         "value": ""
@@ -394,8 +401,8 @@ var list_products = [{
     "company": "Huawei",
     "img": "img/products/huawei-mate-20-pro-green-600x600.jpg",
     "price": "21.990.000",
-    "star": 5,
-    "rateCount": 4,
+    "star": 0,
+    "rateCount": 0,
     "promo": {
         "name": "tragop",
         "value": "0"
@@ -417,8 +424,8 @@ var list_products = [{
     "company": "Huawei",
     "img": "img/products/huawei-nova-3-2-600x600.jpg",
     "price": "9.990.000",
-    "star": 4,
-    "rateCount": 22,
+    "star": 0,
+    "rateCount": 0,
     "promo": {
         "name": "tragop",
         "value": "0"
@@ -440,8 +447,8 @@ var list_products = [{
     "company": "Huawei",
     "img": "img/products/huawei-y5-2017-300x300.jpg",
     "price": "1.990.000",
-    "star": 5,
-    "rateCount": 54,
+    "star": 0,
+    "rateCount": 0,
     "promo": {
         "name": "",
         "value": ""
@@ -463,8 +470,8 @@ var list_products = [{
     "company": "Nokia",
     "img": "https://cdn.tgdd.vn/Products/Images/42/22701/dien-thoai-di-dong-Nokia-1280-dienmay.com-l.jpg",
     "price": "999.999.000",
-    "star": 5,
-    "rateCount": 9999,
+    "star": 0,
+    "rateCount": 0,
     "promo": {
         "name": "giamgia",
         "value": "1.000"
@@ -486,8 +493,8 @@ var list_products = [{
     "company": "Samsung",
     "img": "https://cdn.tgdd.vn/Products/Images/42/194327/samsung-galaxy-a7-2018-128gb-black-400x400.jpg",
     "price": "8.990.000",
-    "star": 4,
-    "rateCount": 22,
+    "star": 0,
+    "rateCount": 0,
     "promo": {
         "name": "tragop",
         "value": "0"
@@ -509,8 +516,8 @@ var list_products = [{
     "company": "Realme",
     "img": "https://cdn.tgdd.vn/Products/Images/42/192002/oppo-realme-2-pro-black-600x600.jpg",
     "price": "6.990.000",
-    "star": 5,
-    "rateCount": 16,
+    "star": 0,
+    "rateCount": 0,
     "promo": {
         "name": "moiramat",
         "value": ""
@@ -532,8 +539,8 @@ var list_products = [{
     "company": "Realme",
     "img": "https://cdn.tgdd.vn/Products/Images/42/193462/realme-2-4gb-64gb-docquyen-600x600.jpg",
     "price": "4.490.000",
-    "star": 5,
-    "rateCount": 7,
+    "star": 0,
+    "rateCount": 0,
     "promo": {
         "name": "moiramat",
         "value": ""
@@ -555,8 +562,8 @@ var list_products = [{
     "company": "Realme",
     "img": "https://cdn.tgdd.vn/Products/Images/42/193286/realme-c1-black-600x600.jpg",
     "price": "2.490.000",
-    "star": 4,
-    "rateCount": 4,
+    "star": 0,
+    "rateCount": 0,
     "promo": {
         "name": "moiramat",
         "value": ""
@@ -578,8 +585,8 @@ var list_products = [{
     "company": "Realme",
     "img": "https://cdn.tgdd.vn/Products/Images/42/193464/realme-2-pro-4gb-64gb-blue-600x600.jpg",
     "price": "5.590.000",
-    "star": 4,
-    "rateCount": 11,
+    "star": 0,
+    "rateCount": 0,
     "promo": {
         "name": "moiramat",
         "value": ""
@@ -601,8 +608,8 @@ var list_products = [{
     "company": "Philips",
     "img": "https://cdn.tgdd.vn/Products/Images/42/139742/philips-e331-xenium-300-300x300.jpg",
     "price": "890.000",
-    "star": 5,
-    "rateCount": 6,
+    "star": 0,
+    "rateCount": 0,
     "promo": {
         "name": "",
         "value": ""
@@ -624,8 +631,8 @@ var list_products = [{
     "company": "Philips",
     "img": "https://cdn.tgdd.vn/Products/Images/42/143146/philips-s329-2-300x300.jpg",
     "price": "2.390.000",
-    "star": 3,
-    "rateCount": 30,
+    "star": 0,
+    "rateCount": 0,
     "promo": {
         "name": "",
         "value": ""
@@ -647,8 +654,8 @@ var list_products = [{
     "company": "Philips",
     "img": "https://cdn.tgdd.vn/Products/Images/42/73727/philips-e103-9-300x300.jpg",
     "price": "260.000",
-    "star": 5,
-    "rateCount": 126,
+    "star": 0,
+    "rateCount": 0,
     "promo": {
         "name": "",
         "value": ""
@@ -693,8 +700,8 @@ var list_products = [{
     "company": "Vivo",
     "img": "https://cdn.tgdd.vn/Products/Images/42/155047/vivo-v9-2-1-600x600-600x600.jpg",
     "price": "7.490.000",
-    "star": 5,
-    "rateCount": 168,
+    "star": 0,
+    "rateCount": 0,
     "promo": {
         "name": "giamgia",
         "value": "800.000"
@@ -716,8 +723,8 @@ var list_products = [{
     "company": "Vivo",
     "img": "https://cdn.tgdd.vn/Products/Images/42/156205/vivo-y85-red-docquyen-600x600.jpg",
     "price": "4.990.000",
-    "star": 4,
-    "rateCount": 60,
+    "star": 0,
+    "rateCount": 0,
     "promo": {
         "name": "giamgia",
         "value": "500.000"
@@ -739,8 +746,8 @@ var list_products = [{
     "company": "Vivo",
     "img": "https://cdn.tgdd.vn/Products/Images/42/158585/vivo-y71-docquyen-600x600.jpg",
     "price": "3.290.000",
-    "star": 4,
-    "rateCount": 60,
+    "star": 0,
+    "rateCount": 0,
     "promo": {
         "name": "tragop",
         "value": "0"
@@ -762,8 +769,8 @@ var list_products = [{
     "company": "Mobell",
     "img": "https://cdn.tgdd.vn/Products/Images/42/92016/mobell-m789-8-300x300.jpg",
     "price": "550.000",
-    "star": 4,
-    "rateCount": 37,
+    "star": 0,
+    "rateCount": 0,
     "promo": {
         "name": "",
         "value": ""
@@ -785,8 +792,8 @@ var list_products = [{
     "company": "Mobell",
     "img": "https://cdn.tgdd.vn/Products/Images/42/112837/mobell-rock-3-2-300x300.jpg",
     "price": "590.000",
-    "star": 4,
-    "rateCount": 58,
+    "star": 0,
+    "rateCount": 0,
     "promo": {
         "name": "",
         "value": ""
@@ -831,8 +838,8 @@ var list_products = [{
     "company": "Itel",
     "img": "https://cdn.tgdd.vn/Products/Images/42/186851/itel-p32-gold-600x600.jpg",
     "price": "1.890.000",
-    "star": 4,
-    "rateCount": 12,
+    "star": 0,
+    "rateCount": 0,
     "promo": {
         "name": "",
         "value": ""
@@ -854,8 +861,8 @@ var list_products = [{
     "company": "Itel",
     "img": "https://cdn.tgdd.vn/Products/Images/42/193990/itel-a32f-pink-gold-600x600.jpg",
     "price": "1.350.000",
-    "star": 5,
-    "rateCount": 3,
+    "star": 0,
+    "rateCount": 0,
     "promo": {
         "name": "moiramat",
         "value": ""
@@ -877,8 +884,8 @@ var list_products = [{
     "company": "Itel",
     "img": "https://cdn.tgdd.vn/Products/Images/42/146651/itel-it2123-d-300-300x300.jpg",
     "price": "160.000",
-    "star": 5,
-    "rateCount": 302,
+    "star": 0,
+    "rateCount": 0,
     "promo": {
         "name": "",
         "value": ""
@@ -900,8 +907,8 @@ var list_products = [{
     "company": "Itel",
     "img": "https://cdn.tgdd.vn/Products/Images/42/193989/itel-it2161-600x600.jpg",
     "price": "170.000",
-    "star": 5,
-    "rateCount": 33,
+    "star": 0,
+    "rateCount": 0,
     "promo": {
         "name": "moiramat",
         "value": ""
@@ -946,8 +953,8 @@ var list_products = [{
     "company": "Coolpad",
     "img": "https://cdn.tgdd.vn/Products/Images/42/193502/coolpad-n3-gray-1-600x600.jpg",
     "price": "1.890.000",
-    "star": 3,
-    "rateCount": 3,
+    "star": 0,
+    "rateCount": 0,
     "promo": {
         "name": "moiramat",
         "value": ""
@@ -969,8 +976,8 @@ var list_products = [{
     "company": "Coolpad",
     "img": "https://cdn.tgdd.vn/Products/Images/42/193503/coolpad-n3-mini-600x600.jpg",
     "price": "1.390.000",
-    "star": 4,
-    "rateCount": 2,
+    "star": 0,
+    "rateCount": 0,
     "promo": {
         "name": "moiramat",
         "value": ""
@@ -992,8 +999,8 @@ var list_products = [{
     "company": "HTC",
     "img": "https://cdn.tgdd.vn/Products/Images/42/186397/htc-u12-life-1-600x600.jpg",
     "price": "7.690.000",
-    "star": 4,
-    "rateCount": 12,
+    "star": 0,
+    "rateCount": 0,
     "promo": {
         "name": "moiramat",
         "value": ""
@@ -1015,8 +1022,8 @@ var list_products = [{
     "company": "Motorola",
     "img": "https://cdn.tgdd.vn/Products/Images/42/109099/motorola-moto-c-4g-300-300x300.jpg",
     "price": "1.290.000",
-    "star": 4,
-    "rateCount": 14,
+    "star": 0,
+    "rateCount": 0,
     "promo": {
         "name": "",
         "value": ""
@@ -1059,10 +1066,17 @@ var list_products = [{
 }, {
     "name": "iPhone 15 Plus 512GB",
     "company": "Apple",
+<<<<<<< HEAD
     "img": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:80/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-15-plus-256gb_4.png",
     "price": "32.990.000",
     "star": 5,
     "rateCount": 230,
+=======
+    "img": "https://cdn.tgdd.vn/Products/Images/42/114110/iphone-8-plus-hh-600x600.jpg",
+    "price": "20.990.000",
+    "star": 0,
+    "rateCount": 0,
+>>>>>>> 4c94f2ff5dc0698bc4eb8fe533c2c23d2266bad9
     "promo": {
         "name": "tragop",
         "value": "0"
@@ -1082,10 +1096,17 @@ var list_products = [{
 }, {
     "name": "iPhone 14 256GB",
     "company": "Apple",
+<<<<<<< HEAD
     "img": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:80/plain/https://cellphones.com.vn/media/catalog/product/p/h/photo_2022-09-28_21-58-56_2.jpg",
     "price": "21.790.000",
     "star": 5,
     "rateCount": 16,
+=======
+    "img": "https://cdn.tgdd.vn/Products/Images/42/114114/iphone-8-plus-256gb-red-600x600.jpg",
+    "price": "25.790.000",
+    "star": 0,
+    "rateCount": 0,
+>>>>>>> 4c94f2ff5dc0698bc4eb8fe533c2c23d2266bad9
     "promo": {
         "name": "giamgia",
         "value": "500.000"
@@ -1105,10 +1126,17 @@ var list_products = [{
 }, {
     "name": "iPhone 13 mini 256GB",
     "company": "Apple",
+<<<<<<< HEAD
     "img": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:80/plain/https://cellphones.com.vn/media/catalog/product/1/1/11_3_12_2_1_3.jpg",
     "price": "24.990.000",
     "star": 4,
     "rateCount": 5,
+=======
+    "img": "https://cdn.tgdd.vn/Products/Images/42/190325/iphone-xr-black-400x460.png",
+    "price": "22.990.000",
+    "star": 0,
+    "rateCount": 0,
+>>>>>>> 4c94f2ff5dc0698bc4eb8fe533c2c23d2266bad9
     "promo": {
         "name": "giareonline",
         "value": "19.990.000"
@@ -1129,8 +1157,8 @@ var list_products = [{
     "company": "Huawei",
     "img": "https://cdn.tgdd.vn/Products/Images/42/157031/samsung-galaxy-a6-2018-2-600x600.jpg",
     "price": "4.490.000",
-    "star": 4,
-    "rateCount": 804,
+    "star": 0,
+    "rateCount": 0,
     "promo": {
         "name": "giareonline",
         "value": "3.990.000"
