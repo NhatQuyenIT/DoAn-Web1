@@ -66,7 +66,7 @@ if (loginForm) {
             // Sử dụng hàm để hiển thị cảnh báo
             customAlert('Bạn đã đăng nhập thành công!', 'success');
             // Đăng nhập thành công, chuyển hướng sang trang admin.html
-            window.location.href = '/WEB01/admin.html';
+            window.location.href = '/A07/admin.html';
         } else {
             // Hiển thị thông báo đăng nhập không thành công
             customAlert('Đăng nhập không thành công. Vui lòng kiểm tra lại thông tin đăng nhập!', 'warning');
